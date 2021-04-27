@@ -1,5 +1,5 @@
 {
-    "name": "Agridera",
+    "name": "Agridera Practice",
     "short_name": "Agridera",
     "icons": [
       {
@@ -26,6 +26,16 @@
         "src": "/img/icons/app-icon-512x512.png",
         "type": "image/png",
         "sizes": "512x512"
+      },
+      {
+        "src": "/img/icons/apple-icon-60x60.png",
+        "type": "image/png",
+        "sizes": "60x60"
+      },
+      {
+        "src": "/img/icons/app-icon-384x384.png",
+        "type": "image/png",
+        "sizes": "384x384"
       }
     ],
     "start_url": "/index.html",
